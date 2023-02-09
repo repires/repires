@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer, developer and a problem solver.
 
 * 🌍  I'm based in Calgary, AB - Canada
-* 🖥️  See my portfolio at [RayDev](http://raydev.ca)
+* 🖥️  See my portfolio at [RayDev.ca](http://raydev.ca)
 * ✉️  You can contact me at [contact@raydev.ca](mailto:contact@raydev.ca)
 * 🚀  I'm currently working on [TechCareers](http://manpowerab.com)
 * 🤝  I'm open to collaborating on Social Projects
