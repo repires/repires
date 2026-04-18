@@ -66,11 +66,13 @@
 
 <h3>🔗 Socials</h3>
 
-<p align="left">
-  <a href="https://discord.com/users/repires"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pirespro"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://www.polywork.com/repires"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" alt="Polywork" /></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://discord.com/users/repires"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a></td>
+    <td><a href="https://www.linkedin.com/in/pirespro"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a></td>
+    <td><a href="https://www.polywork.com/repires"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" alt="Polywork" /></a></td>
+  </tr>
+</table>
 
 <hr />
 
